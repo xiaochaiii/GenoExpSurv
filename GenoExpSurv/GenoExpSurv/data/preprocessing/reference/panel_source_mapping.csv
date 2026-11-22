@@ -1,4 +1,0 @@
-panel,reference_file,download_url,contains_assayed_gene_list
-IMPACT341,data_gene_panel_impact341.txt,https://media.githubusercontent.com/media/cBioPortal/datahub/master/reference_data/gene_panels/data_gene_panel_impact341.txt,False
-IMPACT410,data_gene_panel_impact410.txt,https://media.githubusercontent.com/media/cBioPortal/datahub/master/reference_data/gene_panels/data_gene_panel_impact410.txt,False
-IMPACT468,data_gene_panel_impact468.txt,https://media.githubusercontent.com/media/cBioPortal/datahub/master/reference_data/gene_panels/data_gene_panel_impact468.txt,False
