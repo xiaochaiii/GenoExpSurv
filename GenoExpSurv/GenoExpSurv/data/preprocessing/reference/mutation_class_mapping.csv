@@ -1,0 +1,16 @@
+variant_classification,retained_as_functional
+3'Flank,0
+5'Flank,0
+5'UTR,0
+Frame_Shift_Del,1
+Frame_Shift_Ins,1
+In_Frame_Del,1
+In_Frame_Ins,1
+Intron,0
+Missense_Mutation,1
+Nonsense_Mutation,1
+Nonstop_Mutation,1
+Silent,0
+Splice_Region,0
+Splice_Site,1
+Translation_Start_Site,1

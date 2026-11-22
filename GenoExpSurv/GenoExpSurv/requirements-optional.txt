@@ -1,0 +1,5 @@
+-r requirements.txt
+# Optional: Coxnet (LASSO/ElasticNet) and Random Survival Forest baselines.
+scikit-survival>=0.23
+# Optional proportional hazards diagnostics (Schoenfeld residuals).
+lifelines>=0.30

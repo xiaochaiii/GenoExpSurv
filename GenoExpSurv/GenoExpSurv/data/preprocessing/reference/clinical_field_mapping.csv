@@ -1,0 +1,11 @@
+output_name,input_file,input_column,value_kind
+SEX,data_clinical_patient.txt,SEX,categorical
+AGE_GROUP,data_clinical_patient.txt,AGE_GROUP,categorical
+DRUG_TYPE,data_clinical_patient.txt,DRUG_TYPE,categorical
+CANCER_TYPE,data_clinical_sample.txt,CANCER_TYPE,categorical
+SAMPLE_TYPE,data_clinical_sample.txt,SAMPLE_TYPE,categorical
+GENE_PANEL,data_clinical_sample.txt,GENE_PANEL,categorical
+TMB,data_clinical_sample.txt,TMB_NONSYNONYMOUS,float
+time_months,data_clinical_patient.txt,OS_MONTHS,float
+event,data_clinical_patient.txt,OS_STATUS,binary_status
+patient_id,data_clinical_patient.txt,PATIENT_ID,identifier
