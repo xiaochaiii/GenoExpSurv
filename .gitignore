@@ -1,0 +1,61 @@
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Local Python environments and editor files
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Downloaded MSKCC source data and patient-level processed data
+/data/raw/**
+!/data/raw/.gitkeep
+/data/processed/**
+!/data/processed/.gitkeep
+/data/demo/**
+
+# Generated experiment outputs, figures, checkpoints, and logs
+/outputs/
+/results/
+/runs/
+/checkpoints/
+/saved/
+/logs/
+*.log
+
+# Local serialized datasets and trained models
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.parquet
+*.feather
+
+# Source data downloads and external gene-set references
+*.maf
+*.gmt
